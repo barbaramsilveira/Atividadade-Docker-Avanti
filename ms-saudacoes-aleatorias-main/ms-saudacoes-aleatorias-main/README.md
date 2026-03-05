@@ -103,3 +103,5 @@ Adiciona uma nova saudação ao banco de dados.
       -d '{"text":"Live long and prosper"}' \
       http://localhost:8080/api/saudacoes
     ```
+
+    
